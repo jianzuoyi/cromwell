@@ -1,0 +1,3 @@
+#!/bin/bash
+
+nohup mysqld_safe --defaults-file=/its1/GB_BT2/jianzuoyi/biosoft/cromwell/mysql/my.cnf --user=root > nohup.mysqld_safe &
